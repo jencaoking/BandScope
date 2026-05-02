@@ -1,0 +1,4 @@
+jsbeautifier>=1.14.0
+pyperclip>=1.8.2
+rich>=13.0.0
+lark>=1.1.0
