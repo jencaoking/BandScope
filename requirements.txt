@@ -2,3 +2,5 @@ jsbeautifier>=1.14.0
 pyperclip>=1.8.2
 rich>=13.0.0
 lark>=1.1.0
+PyQt6>=6.6.0
+PyQt6-Qt6>=6.6.0
